@@ -61,3 +61,18 @@ Je m’intéresse particulièrement à :
 - Travailler à l’international
 - Devenir un développeur **Full-Stack confirmé** 
 --
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StephaneTraore&theme=nord_bright)
+
+
+### Top languages used in repository card
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StephaneTraore&theme=nord_bright)
+
+### Top languages in commits card
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StephaneTraore&theme=nord_bright)
+
+### GitHub stats card
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StephaneTraore&theme=nord_bright&)
+
+### Productive time card
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StephaneTraore&theme=nord_bright&utcOffset=8)
